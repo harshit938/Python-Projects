@@ -1,0 +1,25 @@
+2026-06-04 16:02:37,959  [INFO]  Starting Amazon scrape for keyword: 'wireless earphones'
+2026-06-04 16:02:37,973  [INFO]  Fetching (attempt 1): https://www.amazon.in/s?k=wireless+earphones&page=1
+2026-06-05 21:40:04,960  [INFO]  Starting Amazon scrape for keyword: 'wireless earphones'
+2026-06-05 21:40:04,965  [INFO]  Fetching (attempt 1): https://www.amazon.in/s?k=wireless+earphones&page=1
+2026-06-05 21:43:44,697  [INFO]  Starting Amazon scrape for keyword: 'wireless earphones'
+2026-06-05 21:43:44,700  [INFO]  Fetching (attempt 1): https://www.amazon.in/s?k=wireless+earphones&page=1
+2026-06-05 21:43:49,333  [INFO]    Found 22 product cards on this page.
+2026-06-05 21:43:49,411  [INFO]  No products on page 1. Stopping pagination.
+2026-06-05 21:43:49,427  [INFO]  Scrape complete. Total products collected: 0
+2026-06-05 21:43:49,432  [WARNING]  No data collected. Check logs for errors.
+2026-06-05 21:52:42,433  [INFO]  Starting Amazon scrape for: 'wireless earphones'
+2026-06-05 21:52:42,434  [INFO]  Fetching (attempt 1): https://www.amazon.in/s?k=wireless+earphones&page=1
+2026-06-05 21:52:46,205  [INFO]    Found 68 product cards.
+2026-06-05 21:52:46,400  [INFO]  Page 1: +35 products (total: 35)
+2026-06-05 21:52:46,401  [INFO]  Sleeping 3.6s …
+2026-06-05 21:52:49,981  [INFO]  Fetching (attempt 1): https://www.amazon.in/s?k=wireless+earphones&page=2
+2026-06-05 21:52:52,124  [INFO]    Found 69 product cards.
+2026-06-05 21:52:52,262  [INFO]  Page 2: +35 products (total: 70)
+2026-06-05 21:52:52,263  [INFO]  Sleeping 3.2s …
+2026-06-05 21:52:55,441  [INFO]  Fetching (attempt 1): https://www.amazon.in/s?k=wireless+earphones&page=3
+2026-06-05 21:52:57,584  [INFO]    Found 60 product cards.
+2026-06-05 21:52:57,698  [INFO]  Page 3: +33 products (total: 103)
+2026-06-05 21:52:57,699  [INFO]  Sleeping 3.7s …
+2026-06-05 21:53:01,440  [INFO]  Scrape complete. Total: 103 products.
+2026-06-05 21:53:01,821  [INFO]  Saved: output\amazon_wireless_earphones_20260605_215301.csv
